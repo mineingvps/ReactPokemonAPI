@@ -1,0 +1,43 @@
+h1{
+  color: red;
+}
+
+/* อันนี้คือ โปเกม่อนล่างซ้าย */
+pos1{ 
+  position: relative;
+  top: 170px;
+  left: 350px;
+}
+
+/* อันนี้คือ โปเกม่อนบนขวา */
+pos2{
+  position: absolute;
+  top: 170px;
+  left: 600px;
+}
+
+/* อันนี้คือ กล่องขวา */
+pos3{
+  position: absolute;
+  top: 10px;
+  left: 750px;
+}
+
+/* อันนี้คือ ช่องค้นหา */
+pos4{
+  position: absolute;
+  top: 300px;
+  left: 1100px;
+}
+
+.box1{
+  position: relative;
+  background-color: black;
+  width: 20vw;
+  height: 22vh;
+  left: 3px;
+  top: 85px;
+  border-radius: 10px;
+  color: rgb(208, 0, 255);
+  box-shadow: rgb(185, 146, 254) 0.2em 0.3em 1em
+}
