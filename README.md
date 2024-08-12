@@ -1,4 +1,4 @@
-โปรเจ็คนี้สร้างด้วย React ทำการดึง API PokemonAPIแสดงผลเป็น Frontend
+โปรเจ็คนี้สร้างด้วย React ทำการดึงข้อมูล รูปภาพโปเกม่อน , HP , ATK , SKILL มาจากเว็บ API PokemonAPI
 เพื่อจับ Prokemon ที่เราเลือก ไปสู้กับ Pokemon ฝ่ายตรงข้าม
 
 ## Getting Started
