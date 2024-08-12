@@ -1,8 +1,14 @@
-# React + Vite
+โปรเจ็คนี้สร้างด้วย React ทำการดึง API PokemonAPIแสดงผลเป็น Frontend
+เพื่อจับ Prokemon ที่เราเลือก ไปสู้กับ Pokemon ฝ่ายตรงข้าม
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Getting Started
 
-Currently, two official plugins are available:
+First, run the development server:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```bash
+npm install
+npm run dev
+```
+
+## Photo
+![Photo](https://raw.githubusercontent.com/mineingvps/ReactPokemonAPI/main/Screenshot%202567-08-12%20at%2017.35.24.png)
